@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/serverclass.dir/ipv4/serveripv4.cpp.o CMakeFiles/serverclass.dir/main.cpp.o CMakeFiles/serverclass.dir/ipv6/serveripv6.cpp.o CMakeFiles/serverclass.dir/udp/serverudp.cpp.o  -o serverclass.exe -Wl,--out-implib,libserverclass.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Igor/CLionProjects/serverclass/ipv4/serveripv4.cpp
+iostream
+-
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+string.h
+-
+semaphore.h
+-
+serveripv4.h
+/cygdrive/c/Users/Igor/CLionProjects/serverclass/ipv4/serveripv4.h
+string
+-
+
+/cygdrive/c/Users/Igor/CLionProjects/serverclass/ipv4/serveripv4.h
+
