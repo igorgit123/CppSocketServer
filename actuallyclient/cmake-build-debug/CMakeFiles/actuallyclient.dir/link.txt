@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/actuallyclient.dir/client.cpp.o  -o actuallyclient.exe -Wl,--out-implib,libactuallyclient.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

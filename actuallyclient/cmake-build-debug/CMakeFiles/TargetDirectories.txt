@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Igor/CLionProjects/actuallyclient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Igor/CLionProjects/actuallyclient/cmake-build-debug/CMakeFiles/actuallyclient.dir
+/cygdrive/c/Users/Igor/CLionProjects/actuallyclient/cmake-build-debug/CMakeFiles/edit_cache.dir
